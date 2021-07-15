@@ -1,5 +1,7 @@
 ---
-description: A description of what the Sapient Codex is and ways anyone can participate.
+description: >-
+  A description of what the Sapient Codex is and the infrastructure it is built
+  on.
 ---
 
 # What is the Sapient Codex?
