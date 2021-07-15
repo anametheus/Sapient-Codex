@@ -1,5 +1,5 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [What is the Sapient Codex?](README.md)
 * [Second page](second-page.md)
 
