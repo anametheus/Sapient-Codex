@@ -1,10 +1,12 @@
 ---
-description: Maybe adding some content would be good
+description: The Sapient Codex in a Wittgensteinian form.
 ---
 
-# Second page
+# Sapient Codex
 
-Adding content for testing purposes. Second.
+1 Test
 
-Oh that's awesome. 
+2 There is
+
+3 Something
 
