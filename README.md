@@ -10,7 +10,7 @@ description: >-
 
 The Sapient Codex is an evolving repository of attempts to understand reality. It inevitably grapples with fundamental philosophical questions, or, casually speaking, simply aims to understand what's going on, what we are, and what is worth doing and being, in the most succinct and elegant way possible, structured in a way that permits an endless complexity and diversity of perspectives to ceaselessly emerge. 
 
-The aim of the Sapient Codex is to present what appear to be universal patterns, particular examples being used only for illustrative purposes, or as a launch pad for reflection and revision. In short, it aims to foster a philosophical understanding of the world [_under the aspect of eternity_](https://en.wikipedia.org/wiki/Sub_specie_aeternitatis) rather than being a record of historical events.
+The aim of the Sapient Codex is to present what appear to be universal patterns, particular examples being used only for illustrative purposes, or as a launch pad for reflection and revision. In short, it aims to foster a philosophical understanding of the world [_under the aspect of eternity_](https://en.wikipedia.org/wiki/Sub_specie_aeternitatis) rather than being a record of historical events. It is meant to be both theoretical and practical. A constantly evolving manifestation of idealism in practice; something that can used to both understand and change reality.
 
 ## Infrastructure
 
